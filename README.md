@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on *AI Attendance and Tracking System Project*
 
-- 🌱 I’m currently learning *React.js, Node.js, AngularJS, Spring Boot, Tailwind CSS, JSP*
+- 🌱 I’m currently learning *Core Java, Advanced Java, Spring, Spring Boot, Hibernate, JSP & Servlets*
 
 - 👯 I’m looking to collaborate on *Full Stack Development*
 
