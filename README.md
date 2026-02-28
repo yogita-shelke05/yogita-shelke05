@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogita-shelke05&label=Profile%20views&color=0e75b6&style=flat" alt="yogita-shelke05" /> </p>
 
-- 🔭 I’m currently working on *AI Attendance and Tracking System Project*
+- 🔭 I’m currently working on *CashCraft*
 
 - 🌱 I’m currently learning *Core Java, Advanced Java, Spring, Spring Boot, Hibernate, JSP & Servlets*
 
