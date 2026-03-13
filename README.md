@@ -31,6 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogita-shelke05&show_icons=true&locale=en&layout=compact" alt="yogita-shelke05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogita-shelke05&show_icons=true&locale=en" alt="yogita-shelke05" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogita-shelke05&" alt="yogita-shelke05" /></p>
